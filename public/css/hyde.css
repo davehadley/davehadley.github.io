@@ -248,3 +248,12 @@ a.sidebar-nav-item:focus {
 .theme-base-0f .related-posts li a:hover {
   color: #8f5536;
 }
+
+/* User colours */
+.theme-drh .sidebar {
+  background-color: #8f5536;
+}
+.theme-drh .content a,
+.theme-drh .related-posts li a:hover {
+  color: #8f5536;
+}
