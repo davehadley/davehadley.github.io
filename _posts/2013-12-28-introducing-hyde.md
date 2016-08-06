@@ -1,37 +1,10 @@
 ---
 layout: post
-title: Introducing Hyde
+title: Example Post 3
 ---
 
-Hyde is a brazen two-column [Jekyll](http://jekyllrb.com) theme that pairs a prominent sidebar with uncomplicated content. It's based on [Poole](http://getpoole.com), the Jekyll butler.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque interdum molestie tincidunt. Nulla laoreet ligula ut sagittis consequat. Nullam venenatis sollicitudin mauris, ut eleifend nibh fringilla id. Nam porta, quam a vehicula ultricies, turpis nisi sollicitudin elit, ac gravida turpis eros quis justo. Integer semper justo ut diam eleifend, nec feugiat est consequat. Cras eleifend massa sit amet libero ornare ultrices. Nam efficitur, quam vitae faucibus aliquam, lacus ligula vulputate metus, eget commodo sem ante vitae orci. Nullam bibendum et tellus eget consequat. Mauris felis mauris, accumsan sed felis vel, venenatis convallis erat. Morbi scelerisque neque metus, tristique laoreet ex tincidunt vitae. Fusce sapien erat, dictum id augue sit amet, varius gravida eros. Nullam est nunc, tristique in ante at, malesuada sodales dolor. Ut consectetur, ex sed eleifend mattis, nisl velit tristique dui, nec bibendum sem libero ac tortor.
 
-### Built on Poole
+Duis in consectetur ligula, eu faucibus est. Quisque facilisis est ut massa lacinia blandit. Donec sodales placerat egestas. Integer gravida, mi et lobortis hendrerit, ligula nibh euismod diam, non bibendum orci dui non neque. Aliquam cursus varius quam ac ullamcorper. Aliquam tellus velit, dictum non lacinia vitae, feugiat id enim. Ut ultricies magna in orci condimentum iaculis.
 
-Poole is the Jekyll Butler, serving as an upstanding and effective foundation for Jekyll themes by [@mdo](https://twitter.com/mdo). Poole, and every theme built on it (like Hyde here) includes the following:
-
-* Complete Jekyll setup included (layouts, config, [404](/404), [RSS feed](/atom.xml), posts, and [example page](/about))
-* Mobile friendly design and development
-* Easily scalable text and component sizing with `rem` units in the CSS
-* Support for a wide gamut of HTML elements
-* Related posts (time-based, because Jekyll) below each post
-* Syntax highlighting, courtesy Pygments (the Python-based code snippet highlighter)
-
-### Hyde features
-
-In addition to the features of Poole, Hyde adds the following:
-
-* Sidebar includes support for textual modules and a dynamically generated navigation with active link support
-* Two orientations for content and sidebar, default (left sidebar) and [reverse](https://github.com/poole/lanyon#reverse-layout) (right sidebar), available via `<body>` classes
-* [Eight optional color schemes](https://github.com/poole/hyde#themes), available via `<body>` classes
-
-[Head to the readme](https://github.com/poole/hyde#readme) to learn more.
-
-### Browser support
-
-Hyde is by preference a forward-thinking project. In addition to the latest versions of Chrome, Safari (mobile and desktop), and Firefox, it is only compatible with Internet Explorer 9 and above.
-
-### Download
-
-Hyde is developed on and hosted with GitHub. Head to the <a href="https://github.com/poole/hyde">GitHub repository</a> for downloads, bug reports, and features requests.
-
-Thanks!
+Aliquam dapibus elit sed pretium tincidunt. Nunc convallis tellus nulla, at volutpat erat pretium in. Praesent lectus lorem, sodales nec venenatis id, lacinia finibus lectus. Sed ut fermentum velit. Maecenas in purus in purus finibus consequat. Nullam velit orci, venenatis id neque vitae, efficitur iaculis ante. Vestibulum ac elementum augue, quis ultrices ante. Donec ut mollis ante. Suspendisse potenti.
