@@ -1,4 +1,5 @@
-
+.imgrowcontainer { display: flex; }
 .imgrow { display: inline; }
+img.imgrow { width:100%; }
 
-.imgrowcontrainer { display: flex; }
+.centered { margin-left: auto; margin-right: auto; }
