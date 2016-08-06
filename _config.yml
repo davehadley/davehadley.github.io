@@ -17,12 +17,10 @@ author:
   name:           'David Hadley'
   url:            http://davehadley.github.io
 
-paginate:         5
-
 # Custom vars
 version:          0.0.1
 
 github:
   repo:           https://github.com/davehadley/davehadley.github.io
 
-gems: [jekyll-paginate,jekyll-gist]
+gems: [jekyll-gist]
