@@ -1,5 +1,10 @@
-.imgrowcontainer { display: flex; }
-.imgrow { display: inline; margin-top: auto; margin-bottom: auto;}
-img.imgrow { width:100%; }
+.imgrowcontainer { display: flex;}
+.imgrow {
+  display: inline;
+  text-align: center;
+  margin-top: auto;
+  margin-bottom: auto;
+}
+img.imgrow { width:75%; }
 
 .centered { margin-left: auto; margin-right: auto; }
