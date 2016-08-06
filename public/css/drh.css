@@ -5,8 +5,10 @@
   margin-top: auto;
   margin-bottom: auto;
   width: 100%;
+  font-size: 75%
 }
 img.imgrow { width:75%; }
+
 
 .centered { margin-left: auto; margin-right: auto; }
 
