@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About David Hadley
+title: About
 weight: 1
 ---
 
