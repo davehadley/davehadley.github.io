@@ -8,3 +8,7 @@
 img.imgrow { width:75%; }
 
 .centered { margin-left: auto; margin-right: auto; }
+
+.headshot {
+  width: 50%;
+}
