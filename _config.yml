@@ -1,0 +1,26 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+#relative_permalinks: true
+
+# Setup
+title:            David Hadley
+tagline:          '<a href="http://davehadley.github.io" target="_blank">davehadley.github.io</a>'
+description:      'Physicist. Just killing time until the singularity.'
+url:              http://davehadley.github.io
+baseurl:          /
+
+author:
+  name:           'David Hadley'
+  url:            http://davehadley.github.io
+
+# Custom vars
+version:          0.0.1
+
+github:
+  repo:           https://github.com/davehadley/davehadley.github.io
+
+gems: [jekyll-gist]
