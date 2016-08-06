@@ -1,8 +1,9 @@
 ---
 layout: page
-title:
+title: Links
 weight: 99
 ---
+
 ## Productivity
 * [Trello](https://trello.com/)
 * [Inbox](https://inbox.google.com)
