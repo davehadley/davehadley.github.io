@@ -10,6 +10,7 @@ weight: 99
 * [Calendar](http://www.google.com/calendar)
 * [Keep](https://keep.google.com/u/0/)
 * [Sheets](https://docs.google.com/spreadsheets/u/0/)
+* [ITTT](https://ifttt.com/myrecipes/personal)
 * [tt-rss](http://localhost/tt-rss)
 
 ## T2K
@@ -28,4 +29,6 @@ weight: 99
 * [HK UK Wiki](https://wiki.uk.hyperk.org/DavidHadley)
 
 ## Distractions
-[HUKD](http://hukd.garyrip.com/top/index.php) / [CS](http://www.cheapshark.com/browse)
+[BBC](http://www.bbc.co.uk/news/politics)
+/ [HUKD](http://hukd.garyrip.com/top/index.php) 
+/ [CS](http://www.cheapshark.com/browse)
