@@ -6,12 +6,15 @@ weight: 99
 
 ## Productivity
 * [Trello](https://trello.com/)
+* [Toggl](https://toggl.com/app/timer)
 * [Inbox](https://inbox.google.com)
 * [Calendar](http://www.google.com/calendar)
 * [Keep](https://keep.google.com/u/0/)
 * [Sheets](https://docs.google.com/spreadsheets/u/0/)
 * [ITTT](https://ifttt.com/myrecipes/personal)
 * [tt-rss](http://localhost/tt-rss)
+* [Github](https://github.com/davehadley)
+* [Bitbucket](https://bitbucket.org/dhadley/)
 
 ## T2K
 * [T2K.org](http://www.t2k.org/events_listing)
@@ -27,10 +30,13 @@ weight: 99
 ## Hyper-K
 * [HK Wiki](https://wiki.hyperk.org/DavidHadley)
 * [HK UK Wiki](https://wiki.uk.hyperk.org/DavidHadley)
+* [HK Warwick Calibration Meetings](https://wiki.uk.hyperk.org/WarwickCalibrationMeetings)
 
 ## Distractions
 [BBC](http://www.bbc.co.uk/news/politics)
 / [HUKD](http://hukd.garyrip.com/top/index.php) 
 / [CS](http://www.cheapshark.com/browse)
 / [RDT](https://www.reddit.com/)
+/ [PKT](https://getpocket.com/a/queue/list/)
+/ [YTB](https://www.youtube.com/feed/subscriptions)
 
