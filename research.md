@@ -11,12 +11,12 @@ weight: 2
 
 ## Public Talks
 
-* [The T2K/ND280 ECal : Performance and Lessons Learned]({{ site.baseurl }}talks/talk_2017_t2k_ecal_dune.pdf) at the [2nd DUNE Near Detector Workshop (2017)](https://indico.fnal.gov/conferenceOtherViews.py?view=standard&confId=14029)
-* [The Hyper-K Experiment]({{ site.baseurl }}talks/talk_2015_hk_pisa.pdf) at [Frontier Detectors for Frontier Physics (2015)](https://agenda.infn.it/conferenceDisplay.py?confId=8397)
-* [TITUS: An Intermediate Distance Detector for the Tokai-to-Hyper-Kamiokande Neutrino Beam and Physics With Gadolinium]({{ site.baseurl}}talks/poster_2015_titus_pisa.pdf)  at [Frontier Detectors for Frontier Physics (2015)](https://agenda.infn.it/conferenceDisplay.py?confId=8397)
-* [Gadolinium doped water Cherenkov detector]({{ site.baseurl }}talks/talk_2015_nuintuk.pdf) at [NuInt UK (2015)](http://pprc.qmul.ac.uk/research/nuintuk)
-* [Highlights from T2K]({{ site.baseurl }}talks/talk_2013_t2k_icnfp.pdf) at the [International Conference on New Frontiers in Physics (2013)](https://indico.cern.ch/event/198153/)
-* [Charged Current Cross Section Measurements at T2K]({{ site.baseurl }}talks/talk_2013_t2k_nufact.pdf) at [NuFACT (2013)](http://nufact2013.ihep.ac.cn/)
+* [The T2K/ND280 ECal : Performance and Lessons Learned](/talks/talk_2017_t2k_ecal_dune.pdf) at the [2nd DUNE Near Detector Workshop (2017)](https://indico.fnal.gov/conferenceOtherViews.py?view=standard&confId=14029)
+* [The Hyper-K Experiment](/talks/talk_2015_hk_pisa.pdf) at [Frontier Detectors for Frontier Physics (2015)](https://agenda.infn.it/conferenceDisplay.py?confId=8397)
+* [TITUS: An Intermediate Distance Detector for the Tokai-to-Hyper-Kamiokande Neutrino Beam and Physics With Gadolinium](/talks/poster_2015_titus_pisa.pdf)  at [Frontier Detectors for Frontier Physics (2015)](https://agenda.infn.it/conferenceDisplay.py?confId=8397)
+* [Gadolinium doped water Cherenkov detector](/talks/talk_2015_nuintuk.pdf) at [NuInt UK (2015)](http://pprc.qmul.ac.uk/research/nuintuk)
+* [Highlights from T2K](/talks/talk_2013_t2k_icnfp.pdf) at the [International Conference on New Frontiers in Physics (2013)](https://indico.cern.ch/event/198153/)
+* [Charged Current Cross Section Measurements at T2K](/talks/talk_2013_t2k_nufact.pdf) at [NuFACT (2013)](http://nufact2013.ihep.ac.cn/)
 
 <!-- ## Publications 
 TODO
