@@ -11,6 +11,7 @@ weight: 2
 
 ## Public Talks
 
+* [Systematic Uncertainties in Accelerator Neutrino Oscillation Measurements](/talks/talk_2017_systematic_uncertainties_nufact2017.pdf) at the [19th International Workshop on Neutrinos from Accelerators (NUFACT2017)](https://indico.uu.se/event/324/)
 * [The T2K/ND280 ECal : Performance and Lessons Learned](/talks/talk_2017_t2k_ecal_dune.pdf) at the [2nd DUNE Near Detector Workshop (2017)](https://indico.fnal.gov/conferenceOtherViews.py?view=standard&confId=14029)
 * [The Hyper-K Experiment](/talks/talk_2015_hk_pisa.pdf) at [Frontier Detectors for Frontier Physics (2015)](https://agenda.infn.it/conferenceDisplay.py?confId=8397)
 * [TITUS: An Intermediate Distance Detector for the Tokai-to-Hyper-Kamiokande Neutrino Beam and Physics With Gadolinium](/talks/poster_2015_titus_pisa.pdf)  at [Frontier Detectors for Frontier Physics (2015)](https://agenda.infn.it/conferenceDisplay.py?confId=8397)
