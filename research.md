@@ -11,7 +11,10 @@ weight: 2
 
 ## Public Talks
 
-* [Hyper-Kamiokande](/talks/talk_2017_hk_bham_seminar.pdf) at University of Birmingham
+<!-- Neutrino Xsec at ICHEP -->
+* [From T2K to Hyper-K](/talks/talk_2018_ral_ppd_seminar.pdf) at [Rutherford Appleton Laboratory (2018)](https://www.ppd.stfc.ac.uk/Pages/Past-seminars.aspx#1802)
+* [Hyper-Kamiokande](/talks/talk_2017_hk_bham_seminar.pdf) at [University of Birmingham (2017)](http://www.ep.ph.bham.ac.uk/index.php?page=general/seminars/index)
+* [Systematic Uncertainties in long-baseline Neutrino Oscillation](/talks/talk_2017_systematic_uncertainties_nuphys2017.pdf) at [Prospects in Neutrino Physics (NUPHYS2017)](https://indico.ph.qmul.ac.uk/indico/conferenceTimeTable.py?confId=170#all)
 * [Systematic Uncertainties in Accelerator Neutrino Oscillation Measurements](/talks/talk_2017_systematic_uncertainties_nufact2017.pdf) at the [19th International Workshop on Neutrinos from Accelerators (NUFACT2017)](https://indico.uu.se/event/324/)
 * [The T2K/ND280 ECal : Performance and Lessons Learned](/talks/talk_2017_t2k_ecal_dune.pdf) at the [2nd DUNE Near Detector Workshop (2017)](https://indico.fnal.gov/conferenceOtherViews.py?view=standard&confId=14029)
 * [The Hyper-K Experiment](/talks/talk_2015_hk_pisa.pdf) at [Frontier Detectors for Frontier Physics (2015)](https://agenda.infn.it/conferenceDisplay.py?confId=8397)
