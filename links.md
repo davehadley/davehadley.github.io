@@ -12,12 +12,11 @@ weight: 99
 * [Calendar](http://www.google.com/calendar)
 * [Keep](https://keep.google.com/u/0/)
 * [Sheets](https://docs.google.com/spreadsheets/u/0/)
-* [ITTT](https://ifttt.com/myrecipes/personal)
-* [tt-rss](http://localhost/tt-rss)
 * [Github](https://github.com/davehadley)
 * [Bitbucket](https://bitbucket.org/dhadley/)
 
 ## T2K
+* [Vidyo](https://kekwrtc1.kek.jp/web/)
 * [T2K.org](http://www.t2k.org/events_listing)
 * [T2K Internal Notes](www.t2k.org/docs/technotes/)
 * [T2K UK Wiki](http://www.t2kuk.org/wiki/DavidHadley)
