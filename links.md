@@ -5,18 +5,18 @@ weight: 99
 ---
 
 ## Productivity
-* [Trello](https://trello.com/)
 * [Toggl](https://toggl.com/app/timer)
+* [Todoist](https://todoist.com/app)
 * [Inbox](https://inbox.google.com)
+* [Trello](https://trello.com/)
 * [Calendar](http://www.google.com/calendar)
 * [Keep](https://keep.google.com/u/0/)
 * [Sheets](https://docs.google.com/spreadsheets/u/0/)
-* [ITTT](https://ifttt.com/myrecipes/personal)
-* [tt-rss](http://localhost/tt-rss)
 * [Github](https://github.com/davehadley)
 * [Bitbucket](https://bitbucket.org/dhadley/)
 
 ## T2K
+* [Vidyo](https://kekwrtc1.kek.jp/web/)
 * [T2K.org](http://www.t2k.org/events_listing)
 * [T2K Internal Notes](www.t2k.org/docs/technotes/)
 * [T2K UK Wiki](http://www.t2kuk.org/wiki/DavidHadley)
@@ -34,9 +34,8 @@ weight: 99
 
 ## Distractions
 [BBC](http://www.bbc.co.uk/news/politics)
-/ [HUKD](http://hukd.garyrip.com/top/index.php) 
-/ [CS](http://www.cheapshark.com/browse)
+/ [HUKD](https://www.hotukdeals.com/) 
+/ [ITAD](https://isthereanydeal.com/waitlist/)
 / [RDT](https://www.reddit.com/)
-/ [PKT](https://getpocket.com/a/queue/list/)
 / [YTB](https://www.youtube.com/feed/subscriptions)
 
