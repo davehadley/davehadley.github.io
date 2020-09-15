@@ -1,6 +1,6 @@
 {
   "name": "davehadley.github.io",
-  "version": "2.1.2",
+  "version": "2.2.0",
   "description": "David Hadley's personal site.",
   "main": "index.js",
   "scripts": {
