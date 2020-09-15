@@ -2,9 +2,12 @@
 layout: page
 title: Research
 weight: 2
+tags: menuitem
 ---
 
 ## Experiments
+* 2020 - present [Super-Kamiokande](http://www-sk.icrr.u-tokyo.ac.jp/sk/index-e.html)
+* 2020 - present [WATCHMAN](https://neutrinos.llnl.gov/projects/ait-watchman)
 * 2012 - present [T2K](http://t2k-experiment.org/)
 * 2014 - present [Hyper-K](http://hyperk.org/)
 * 2007 - 2012 [ATLAS](http://atlas.cern/) 
@@ -23,6 +26,3 @@ weight: 2
 * [Highlights from T2K](/talks/talk_2013_t2k_icnfp.pdf) at the [International Conference on New Frontiers in Physics (2013)](https://indico.cern.ch/event/198153/)
 * [Charged Current Cross Section Measurements at T2K](/talks/talk_2013_t2k_nufact.pdf) at [NuFACT (2013)](http://nufact2013.ihep.ac.cn/)
 
-<!-- ## Publications 
-TODO
--->

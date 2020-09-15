@@ -1,0 +1,26 @@
+{
+  "name": "davehadley.github.io",
+  "version": "2.0.0",
+  "description": "David Hadley's personal site.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass":"sass --watch ./scss/custom.scss ./public/css/custom.css --style compressed" 
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davehadley/davehadley.github.io.git"
+  },
+  "author": "David Hadley",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/davehadley/davehadley.github.io/issues"
+  },
+  "homepage": "https://github.com/davehadley/davehadley.github.io#readme",
+  "dependencies": {
+    "bootstrap": "^4.5.2",
+    "jquery": "^3.5.1",
+    "popper": "^1.0.1",
+    "sass": "^1.26.10"
+  }
+}

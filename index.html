@@ -1,67 +1,91 @@
 ---
 layout: default
-title: Home
+title: About
+tags: menuitem
 ---
 
-<div>
-  <img class="centered headshot" title="David Hadley" alt="David Hadley" src="{{ site.baseurl }}public/headshot_round_2.png" />
+<div class="jumbotron jumbotron-fluid">
+  <div class="container">
+    <div class="row">
+      <div class="col">
+        <h1 class="display-4">{{ site.title }}</h1>
+        <p class="lead">{{ site.description }}</p>
+      </div>
+    </div>
+  </div>
 </div>
 
-<h1>Find me at:</h1>
+<div class="container">
+  <div class="row">
+    <div class="col-1"></div>
+    <div class="col-3 mx-auto d-block">
+      <img title="David Hadley" alt="David Hadley" src="{{ site.baseurl }}public/headshot_round_2.png" class="img-fluid" />
+    </div>
+    <div class="col-1"></div>
+    <div class="col-lg-5">
+      <p>
+        <a id="about">
+          In my day job as a particle physicist I try to help us understand what &ldquo;stuff&rdquo;
+          is and how it works, at a fundamental level.
+        </a>
+      </p>
+      
+      <p>
+        I am a Senior Research Fellow in the Particle Physics group at the
+        <a href="http://www2.warwick.ac.uk/fac/sci/physics/research/epp/">University of Warwick</a>
+        researching the physics of neutrinos.
+        Despite being discovered quite some time ago, there is still a lot that we don't
+        know about the neutrinos.
+      </p>
 
-<div class="imgrowcontainer">
+      <p>
+        <a href="research">Learn about my research</a>.
+      </p>
 
-  <div class="imgrow">
-    <p class="imgrow">
+      <p>In my spare time, I am often working on side projects. Sometimes <a href="https://github.com/davehadley">they even ship</a>.
+      </p>
+      
+    </div>
+    <div class="col"></div>
+  </div>
+</div>
+
+<hr />
+
+<div class="container">
+  <h1 class="display-4">Find me at:</h1>
+  <div class="row text-center">
+    
+    <div class="col">
       <a href="https://twitter.com/davehadley_"><span title="Twitter" class="fa fa-twitter fa-5x"></span></a>
       <br />Twitter
-    </p>
-  </div>
-
-  <div class="imgrow">
-    <p class="imgrow">
+    </div>
+    
+    <div class="col">
       <a href="https://github.com/davehadley"><span title="Github" class="fa fa-github fa-5x"></span></a>
-    <br />Github
-    </p>
-  </div>
-
-  <div class="imgrow">
-    <p class="imgrow">
-      <a href="https://bitbucket.org/dhadley/"><span title="Bitbucket" class="fa fa-bitbucket fa-5x"></span></a>
-    <br />Bitbucket
-    </p>
-  </div>
-
-  <div class="imgrow">
-    <p class="imgrow">
+      <br />Github
+    </div>
+    
+    <div class="col">
       <a href="http://inspirehep.net/author/profile/D.R.Hadley.2"><span title="Inspire" class="fa fa-book fa-5x"></span></a>
       <br />Inspire
-    </p>
-  </div>
-
-  <div class="imgrow">
-    <p class="imgrow">
+    </div>
+    
+    <div class="col">
       <a href="https://warwick.ac.uk/go/davidrichardhadley"><span title="University of Warwick" class="fa fa-university fa-5x"></span></a>
       <br />University of Warwick
-    </p>
-  </div>
+    </div>
 
+    <div class="col">
+      <a href="mailto:dave@davehadley.co.uk"><span title="LinkedIn" class="fa fa-linkedin fa-5x"></span></a>
+      <br />Linked In
+    </div>
+
+    <div class="col">
+      <a href="mailto:dave@davehadley.co.uk"><span title="Mail" class="fa fa-envelope fa-5x"></span></a>
+      <br />Mail
+    </div>
+    
+  </div>
+  
 </div>
-
-<h1>Experiments</h1>
-
-<div class="imgrowcontainer">
-  <div class="imgrow">
-    <a href="http://t2k-experiment.org" class="imgrow"><img title="T2K" alt="T2K" src="/public/t2k_logo_medium.png" class="imgrow" /></a>
-  </div>
-  <div class="imgrow">
-    <a href="http://hyperk.org" class="imgrow"><img title="Hyper-K" alt="Hyper-K" src="/public/hyperk_logo.png" class="imgrow" /></a>
-  </div>
-</div>
-
-<h2>Thanks</h2>
-<p>
-  <a href="http://hyde.getpoole.com">Hyde</a> theme by <a href="https://twitter.com/mdo">@mdo</a>.
-  <br />
-  <a href="http://fontawesome.io">Font Awesome</a> icons by <a href="https://twitter.com/davegandy">Dave Gandy</a>.
-</p>

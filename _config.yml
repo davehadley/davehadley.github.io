@@ -10,16 +10,16 @@ permalink:        pretty
 title:            David Hadley
 tagline:          ''
 description:      'Physicist. Just killing time until the singularity.'
-url:              http://davehadley.github.io
+url:              http://davehadley.co.uk
 
 baseurl:          /
 
 author:
   name:           'David Hadley'
-  url:            http://davehadley.github.io
+  url:            http://davehadley.co.uk
 
 # Custom vars
-version:          0.0.1
+version:          2.0.0
 
 github:
   repo:           https://github.com/davehadley/davehadley.github.io
