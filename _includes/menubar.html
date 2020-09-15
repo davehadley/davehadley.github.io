@@ -1,0 +1,26 @@
+<div>
+<nav class="navbar navbar-expand-sm  navbar-dark bg-primary">
+  <a class="navbar-brand" href="/">
+    <!-- {{ site.title }} -->
+    <img src="https://www.gravatar.com/avatar/455a034a8c2b79de683fe43b4b8e85a8?s=50" class="img-fluid rounded-circle" />
+  </a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+    <ul class="navbar-nav mr-auto">
+
+      {% assign pages_list = site.pages | sort:"weight" %}
+      {% for node in pages_list %}
+        {% if node.title != null %}
+          {% if node.tags contains 'menuitem' %}
+            <li class="nav-item{% if page.url == node.url %} active{% endif %}">
+              <a class="nav-link" href="{{ node.url }}">{{ node.title }}</a>
+            </li>
+          {% endif %}
+        {% endif %}
+      {% endfor %}
+  </div>
+</nav>
+</div>

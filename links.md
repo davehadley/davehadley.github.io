@@ -2,12 +2,11 @@
 layout: page
 title: Links
 weight: 99
+tags: menuitem
 ---
 
 ## Productivity
-* [Toggl](https://toggl.com/app/timer)
-* [Todoist](https://todoist.com/app)
-* [Inbox](https://inbox.google.com)
+* [Mail](https://mail.google.com/mail/u/1/#inbox)
 * [Trello](https://trello.com/)
 * [Calendar](http://www.google.com/calendar)
 * [Keep](https://keep.google.com/u/0/)
@@ -22,6 +21,7 @@ weight: 99
 * [T2K UK Wiki](http://www.t2kuk.org/wiki/DavidHadley)
 * [T2K Papers](http://t2k-experiment.org/publications/)
 * [ND280 CVS](http://repo.nd280.org/viewvc)
+* [ND280 GitLab](https://git.t2k.org/nd280)
 * [ND280 Bugzilla](http://bugzilla.nd280.org)
 * [ND280 Doxygen](http://hep.lancs.ac.uk/nd280Doc/)
 
@@ -31,11 +31,4 @@ weight: 99
 * [HK Wiki](https://wiki.hyperk.org/DavidHadley)
 * [HK UK Wiki](https://wiki.uk.hyperk.org/DavidHadley)
 * [HK Warwick Calibration Meetings](https://wiki.uk.hyperk.org/WarwickCalibrationMeetings)
-
-## Distractions
-[BBC](http://www.bbc.co.uk/news/politics)
-/ [HUKD](https://www.hotukdeals.com/) 
-/ [ITAD](https://isthereanydeal.com/waitlist/)
-/ [RDT](https://www.reddit.com/)
-/ [YTB](https://www.youtube.com/feed/subscriptions)
 
