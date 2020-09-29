@@ -11,7 +11,10 @@ tags: menuitem
 * [Calendar](http://www.google.com/calendar)
 * [Keep](https://keep.google.com/u/0/)
 * [Sheets](https://docs.google.com/spreadsheets/u/0/)
-* [Github](https://github.com/davehadley)
+
+## Software
+* [Github](https://github.com/davehadley?tab=repositories)
+* [PyPI](https://pypi.org/user/davehadley/)
 * [Bitbucket](https://bitbucket.org/dhadley/)
 
 ## T2K
@@ -32,3 +35,9 @@ tags: menuitem
 * [HK UK Wiki](https://wiki.uk.hyperk.org/DavidHadley)
 * [HK Warwick Calibration Meetings](https://wiki.uk.hyperk.org/WarwickCalibrationMeetings)
 
+## Super-K
+* [Super-K Wiki](https://www-sk.icrr.u-tokyo.ac.jp/)
+
+## WATCHMAN
+* [UK Group Meetings](https://ntpc.ucllnl.org/rrm/index.php/UK_group_meetings)
+* [UK Simulations](https://ntpc.ucllnl.org/rrm/index.php/UK_SAS)
