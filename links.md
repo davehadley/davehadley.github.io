@@ -5,16 +5,10 @@ weight: 99
 tags: menuitem
 ---
 
-## Productivity
-* [Mail](https://mail.google.com/mail/u/1/#inbox)
-* [Trello](https://trello.com/)
-* [Calendar](http://www.google.com/calendar)
-* [Keep](https://keep.google.com/u/0/)
-* [Sheets](https://docs.google.com/spreadsheets/u/0/)
-
 ## Software
 * [Github](https://github.com/davehadley?tab=repositories)
 * [PyPI](https://pypi.org/user/davehadley/)
+* [Crates.io](https://crates.io/users/davehadley)
 * [Bitbucket](https://bitbucket.org/dhadley/)
 
 ## T2K
@@ -31,9 +25,10 @@ tags: menuitem
 <!-- * [ND280 LXR](https://repo.nd280.org/lxr) -->
 
 ## Hyper-K
-* [HK Wiki](https://wiki.hyperk.org/DavidHadley)
-* [HK UK Wiki](https://wiki.uk.hyperk.org/DavidHadley)
-* [HK Warwick Calibration Meetings](https://wiki.uk.hyperk.org/WarwickCalibrationMeetings)
+* [HK Wiki](https://wiki.hyperk.org)
+* [HK UK Wiki](https://wiki.uk.hyperk.org)
+* [HK Warwick Calibration Meetings](https://indico.uk.hyperk.org/category/25/)
+<!-- * [HK Warwick Calibration Meetings](https://wiki.uk.hyperk.org/WarwickCalibrationMeetings) -->
 
 ## Super-K
 * [Super-K Wiki](https://www-sk.icrr.u-tokyo.ac.jp/)
