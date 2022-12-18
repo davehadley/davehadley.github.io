@@ -1,27 +1,29 @@
 # Dependencies
 #markdown:         redcarpet
-highlighter:      rouge
+highlighter: rouge
 
 # Permalinks
-permalink:        pretty
+permalink: pretty
 #relative_permalinks: true
 
 # Setup
-title:            David Hadley
-tagline:          ''
-description:      'Physicist.'
-url:              http://davehadley.co.uk
+title: David Hadley
+tagline: ""
+description: "Physicist."
+url: http://davehadley.co.uk
 
-baseurl:          /
+baseurl: /
 
 author:
-  name:           'David Hadley'
-  url:            http://davehadley.co.uk
+  name: "David Hadley"
+  url: http://davehadley.co.uk
 
 # Custom vars
-version:          2.2.0
+version: 2.2.0
+
+encoding: utf-8
 
 github:
-  repo:           https://github.com/davehadley/davehadley.github.io
+  repo: https://github.com/davehadley/davehadley.github.io
 
 gems: [jekyll-gist]

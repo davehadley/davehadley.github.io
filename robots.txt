@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://davehadley.co.uk/sitemap.xml

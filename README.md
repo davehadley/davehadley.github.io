@@ -2,23 +2,11 @@
 
 This repository contains the personal web pages of David Hadley hosted at (https://davehadley.co.uk).
 
-## Build CSS
+## Build and Test with Docker
 
-Ensure SASS is installed globally:
-```
-npm install -g sass
-```
-
-Ensure package dependencies are installed:
-```
-npm install
+```bash
+docker build . -t davehadley.github.io && \
+docker run --rm -it -p4000:4000 --name davehadley.github.io davehadley.github.io
 ```
 
-Run SCSS:
-```
-sass --watch .\scss\custom.scss .\public\css\custom.css --style compressed
-```
-or with npm:
-```
-npm run sass
-```
+Then go to http://localhost:4000. You should be able to connect to the container (eg with VS Code or `docker exec -it davehadley.github.io bash`)and modify it and see the changes in realtime.

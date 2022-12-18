@@ -19,10 +19,9 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 ## Dependencies
 
-* [Bootstrap 4](https://github.com/twbs/bootstrap/blob/main/LICENSE) is licensed under the [MIT License](https://github.com/twbs/bootstrap/blob/main/LICENSE).
-* [Font Awesome 4.7](https://fontawesome.com/v4.7.0/) is licensed under [SIL OFL 1.1](http://scripts.sil.org/OFL).
+- [Bootstrap 4](https://github.com/twbs/bootstrap/blob/main/LICENSE) is licensed under the [MIT License](https://github.com/twbs/bootstrap/blob/main/LICENSE).
+- [Font Awesome 4.7](https://fontawesome.com/v4.7.0/) is licensed under [SIL OFL 1.1](http://scripts.sil.org/OFL).
 
 ## Privacy Statement
 
 This site is hosted by [Github Pages](https://pages.github.com/). You may find details of any information collected by Github in the [Github privacy statement](https://docs.github.com/en/github/site-policy/github-privacy-statement).
-
