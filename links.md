@@ -12,8 +12,8 @@ tags: menuitem
   - [bootstraphistogram](https://bootstraphistogram.readthedocs.io) ([pypi](https://pypi.org/project/bootstraphistogram/) / [docs](https://bootstraphistogram.readthedocs.io) / [git](https://github.com/davehadley/bootstraphistogram))
 - [Crates.io](https://crates.io/users/davehadley)
   - [ndhistogram](https://crates.io/crates/ndhistogram) ([crate](https://crates.io/crates/ndhistogram) / [docs](https://docs.rs/ndhistogram) / [git](https://github.com/davehadley/ndhistogram))
-- Applications
-  - [Free Image Converter](https://free-image-converter.davehadley.co.uk/) ([git](https://github.com/davehadley/image-converter))
+<!-- - Applications
+  - [Free Image Converter](https://free-image-converter.davehadley.co.uk/) ([git](https://github.com/davehadley/image-converter)) -->
 
 ## T2K
 
