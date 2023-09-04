@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Calorimeter Privacy Policy
+title: Macrometer Privacy Policy
 ---
 
-Calorimeter runs entirely on your device without a server-side component.
+Macrometer runs entirely on your device without a server-side component.
 No nutrition or personal health data ever leaves your device and no personal
 information is collected by the developer.
