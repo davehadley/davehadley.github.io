@@ -7,8 +7,8 @@ Macrometer runs entirely on your device without a server-side component.
 No nutrition or personal health data ever leaves your device and no personal
 information is collected by the developer. 
 
-A third party service, [Firebase Crashalytics](https://firebase.google.com/support/privacy/),
-is used to collect crash reports. If the Macrometer crashes during normal use, 
+A third party service, [Firebase Crashlytics](https://firebase.google.com/support/privacy/),
+is used to collect crash reports. If Macrometer crashes during normal use, 
 it will send certain information about the incident to Crashlytics.
 This information consists of the device type, OS version and certain hardware
 information about your mobile device, and the time of the crash, the state of
