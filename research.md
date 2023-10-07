@@ -16,7 +16,7 @@ tags: menuitem
 ## Public Talks
 
 - [Recent T2K Neutrino Cross-section Measurements](/talks/talk_2023_epshep2023_t2kxsec.pdf) at [the  European Physical Society Conference on High Energy Physics (EPSHEP2023)](https://www.eps-hep2023.eu)
-- [Probing Neutrino Cross Section Models with T2K Near Detector Data](/talks/talk_2018_ichep2018_t2kxsec2.pdf) at [the 39thth International Conference on High Energy Physics (ICHEP2018)](https://www.ichep2018.org/)
+- [Probing Neutrino Cross Section Models with T2K Near Detector Data](/talks/talk_2018_ichep2018_t2kxsec2.pdf) at [the 39thth International Conference on High Energy Physics (ICHEP2018)](http://www.ichep2018.org/)
 - [From T2K to Hyper-K](/talks/talk_2018_ral_ppd_seminar.pdf) at [Rutherford Appleton Laboratory (2018)](https://www.ppd.stfc.ac.uk/Pages/Past-seminars.aspx#1802)
 - [Hyper-Kamiokande](/talks/talk_2017_hk_bham_seminar.pdf) at [University of Birmingham (2017)](http://www.ep.ph.bham.ac.uk/index.php?page=general/seminars/index)
 - [Systematic Uncertainties in long-baseline Neutrino Oscillation](/talks/talk_2017_systematic_uncertainties_nuphys2017.pdf) at [Prospects in Neutrino Physics (NUPHYS2017)](https://indico.ph.qmul.ac.uk/indico/conferenceTimeTable.py?confId=170#all)
