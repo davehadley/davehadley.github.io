@@ -47,3 +47,7 @@ tags: menuitem
 
 - [UK Group Meetings](https://ntpc.ucllnl.org/rrm/index.php/UK_group_meetings)
 - [UK Simulations](https://ntpc.ucllnl.org/rrm/index.php/UK_SAS) -->
+
+## Misc
+
+- [Parkrun](https://www.parkrun.org.uk/parkrunner/9837629/)
