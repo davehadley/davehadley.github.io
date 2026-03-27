@@ -2,7 +2,6 @@
 layout: page
 title: Research
 weight: 2
-tags: menuitem
 ---
 
 ## Experiments
