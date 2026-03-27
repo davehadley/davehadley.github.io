@@ -13,10 +13,14 @@ tags: menuitem
 - [Crates.io](https://crates.io/users/davehadley)
   - [ndhistogram](https://crates.io/crates/ndhistogram) ([crate](https://crates.io/crates/ndhistogram) / [docs](https://docs.rs/ndhistogram) / [git](https://github.com/davehadley/ndhistogram))
 - [Google Play](https://play.google.com/store/apps/developer?id=Dave+Hadley)
-  - [Podlyglot](https://play.google.com/store/apps/details?id=uk.co.davehadley.languagepodcastplayer)
   - [Macrometer](https://play.google.com/store/apps/details?id=uk.co.davehadley.calorimeterandroid)
 - Other Applications
   - [Free Image Converter](https://free-image-converter.davehadley.co.uk/) ([git](https://github.com/davehadley/image-converter))
+
+## Diamond
+
+  - [Team Sharepoint](https://dlsltd.sharepoint.com/sites/Workflows)
+  - [Workflows](https://github.com/DiamondLightSource/workflows)
 
 ## T2K
 
