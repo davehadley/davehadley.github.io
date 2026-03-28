@@ -2,14 +2,15 @@
 layout: page
 title: Research
 weight: 2
+tags: menuitem
 ---
 
 ## Experiments
 
-- 2020 - present [Super-Kamiokande](http://www-sk.icrr.u-tokyo.ac.jp/sk/index-e.html)
-- 2020 - present [WATCHMAN](https://neutrinos.llnl.gov/projects/ait-watchman)
-- 2012 - present [T2K](http://t2k-experiment.org/)
-- 2014 - present [Hyper-K](http://hyperk.org/)
+- 2012 - 2025 [T2K](http://t2k-experiment.org/)
+- 2014 - 2025 [Hyper-K](http://hyperk.org/)
+- 2020 - 2025 [Super-Kamiokande](http://www-sk.icrr.u-tokyo.ac.jp/sk/index-e.html)
+- 2020 - 2022 [WATCHMAN](https://neutrinos.llnl.gov/projects/ait-watchman)
 - 2007 - 2012 [ATLAS](http://atlas.cern/)
 
 ## Public Talks
